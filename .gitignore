@@ -1,0 +1,7 @@
+build/
+install/
+log/
+*.AppImage
+__pycache__/
+*.pyc
+.vscode/
